@@ -21,7 +21,7 @@
 
 ![](Screenshot/P3.png)
 
-#### Take screen A entre it in google lens 
+#### Take screenshot and entre it in google lens 
 
 ![](Screenshot/P4.png)
 
