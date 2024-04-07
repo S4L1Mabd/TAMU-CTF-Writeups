@@ -47,12 +47,12 @@
 ![](Screenshot/P7.png)
 
 
-#### search the near BRidge from the theatre 
+#### search the near Brdges from the theatre 
 
 ![](Screenshot/P8.png)
 
 
-### We can two Bridges "Helix" ,  " benajmin sheares"
+### We Have two Bridges "Helix" ,  " benajmin sheares"
 
 ### ------------------------------------------------------------------------------------------------------
 
