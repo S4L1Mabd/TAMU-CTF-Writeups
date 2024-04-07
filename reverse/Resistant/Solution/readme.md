@@ -74,7 +74,7 @@ You can solve it Locally
 ![](../Screenshot/P9.png)
 
 
-### You can see that the auth function  Printf a message then scan input that decrypt the password then compare it to our input 
+### You can see that the auth function  Printf a message then scan input then decrypt the password then compare it to our input 
 
 
 ### SO we should set Breakpoint in memcmp@alt and Excute the program 
