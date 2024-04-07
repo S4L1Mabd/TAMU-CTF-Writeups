@@ -1,1 +1,14 @@
-# TAMU-CTF-Writeups
+<h1 align="center">TAMU CTF WRITEUPS</h1>
+<h3 align="center"> This repository Contain my own solutions for TAMU CTF challenges </h3>
+
+<!-- 
+<h2 align="center">CS student and a passionate web developer</h2> -->
+
+<!--   my-ticker -->    
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=1000&lines=TAMU+CTF+2K24"")](https://git.io/typing-svg) -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=1000&lines=TAMU+CTF+2K24" alt="Typing SVG">
+  </a>
+</p>
