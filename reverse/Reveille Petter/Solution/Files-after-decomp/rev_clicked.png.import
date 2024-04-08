@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://detaq3ynnonmp"
+path="res://.godot/imported/rev_clicked.png-ed3693ad2812d6107264072c06d9791e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://rev_clicked.png"
+dest_files=PackedStringArray("res://.godot/imported/rev_clicked.png-ed3693ad2812d6107264072c06d9791e.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

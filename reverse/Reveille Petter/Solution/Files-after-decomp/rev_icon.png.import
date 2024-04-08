@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cmxd3ghjyohn8"
+path="res://.godot/imported/rev_icon.png-dbd8f92269058f0a096d11bb3c93d991.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://rev_icon.png"
+dest_files=PackedStringArray("res://.godot/imported/rev_icon.png-dbd8f92269058f0a096d11bb3c93d991.ctex")
+
+[params]
+
+dummy_value_ignore_me=0
